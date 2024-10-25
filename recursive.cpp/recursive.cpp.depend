@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670386955 source:c:\users\onate\onedrive\documents\recursive.cpp\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<cmath>
+

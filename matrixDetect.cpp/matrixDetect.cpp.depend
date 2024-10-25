@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1671168541 source:c:\users\onate\onedrive\documents\matrixdetect.cpp\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+

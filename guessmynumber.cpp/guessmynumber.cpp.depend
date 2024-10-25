@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636058754 source:c:\users\onate\onedrive\documents\guessmynumber.cpp\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
