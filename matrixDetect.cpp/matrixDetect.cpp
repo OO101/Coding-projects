@@ -42,7 +42,7 @@ int main()
 
 
 
-
+//Print out the Matrix size within the file.
 	cout << "Matrix size: " << row << "x" << col << endl;
 
 	
