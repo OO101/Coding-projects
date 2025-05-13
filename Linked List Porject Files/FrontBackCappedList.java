@@ -5,7 +5,7 @@
  * Entries can be accessed from any position. 
  * The size of the list is limited ("capped"). When the limit is reached, no more entries can be added.
  * 
- * @author Jessica Masters
+ * 
  */
 public interface FrontBackCappedList<T> {
 	
