@@ -1,0 +1,92 @@
+{
+  "Projects": [
+    {
+      "id": "1",
+      "title": "Project 1",
+      "date": "02/05/24",
+      "description": "Learning basic JavaScript with FizzBuzz",
+      "image_path": "imgs/FizzThumb.jpg",
+      "url": "https://8c730bc5-320a-4f15-be94-5b80ab7ba087-00-iok5xy8ea42d.kirk.replit.dev/exercise2.html"
+    },
+    {
+      "id": "2",
+      "title": "Project 2",
+      "date": "02/12/24",
+      "description": "A basic trivia game created with JavaScript",
+      "image_path": "imgs/JSTriviaThumb.jpg",
+      "url": "https://4f6a0f36-04f7-4cc0-87a7-a51130be0c7f-00-325ty5e06bpp9.picard.replit.dev/"
+    },
+    {
+      "id": "3",
+      "title": "Project 3",
+      "date": "02/19/24",
+      "description": "A more involved trivia game using JavaScript and JQuery",
+      "image_path": "imgs/JSJQueryTriviaThumb.jpg",
+      "url": "https://3c9ff285-3221-4ae1-b8c0-7e668d2b70d4-00-1124enysk9bea.worf.replit.dev/"
+    },
+    {
+      "id": "4",
+      "title": "Project 4",
+      "date": "02/26/24",
+      "description": "A trvia game using JavaScript, JQuery, and a JQuery widget",
+      "image_path": "imgs/JSJQueryandWidgetThumb.jpg",
+      "url": "https://0e4599a1-a0b4-4388-814a-5dff230ec20c-00-786ugaj0m9a6.janeway.replit.dev/"
+    },
+    {
+      "id": "5",
+      "title": "Project 5",
+      "date": "03/04/24",
+      "description": "A display of jQuery widgets along with my own created widget",
+      "image_path": "imgs/JQueryWidgetsThumb.jpg",
+      "url": "https://a4e07e09-3197-488b-b364-d3db54fbba28-00-3gzdz8irbli11.kirk.replit.dev/"
+    },
+    {
+      "id": "6",
+      "title": "Project 6",
+      "date": "03/11/24",
+      "description": "A custom Leaftlet map with markers in a geometric shape",
+      "image_path": "imgs/LeaftletMapsThumb.jpg",
+      "url": "https://494123f6-ea65-4c3d-9f28-38379b2cf2a6-00-15qtcywr8hppz.janeway.replit.dev/"
+    },
+    {
+      "id": "7",
+      "title": "Project 7",
+      "date": "03/25/24",
+      "description": "A custom Leaftlet map with custom markers",
+      "image_path": "imgs/LeaftleftwithCustomIconThumb.jpg",
+      "url": "https://13828715-404f-4919-82af-ef800f51f551-00-1er0hulgh6915.janeway.replit.dev/"
+    },
+    {
+      "id": "8",
+      "title": "Project 8",
+      "date": "04/08/24",
+      "description": "A simple data visualization",
+      "image_path": "imgs/DataVisualizationThumb.jpg",
+      "url": "https://0c97b1ae-b748-44c3-bba0-aa4782e73086-00-2kb7u6d5fcb6s.picard.replit.dev/"
+    },
+    {
+      "id": "9",
+      "title": "Project 9",
+      "date": "04/15/24",
+      "description": "Advanced data visualization",
+      "image_path": "imgs/AdvanceDataThumb.jpg",
+      "url": "https://ab6d982b-7591-436c-b26b-9d7fc52e8c0d-00-2kaeswylcyjcc.picard.replit.dev/"
+    },
+    {
+      "id": "10",
+      "title": "Project 10",
+      "date": "04/22/24",
+      "description": "Learning game development",
+      "image_path": "imgs/fishGameThumb.jpg",
+      "url": "https://829cb609-0e48-423a-8f76-e97daec25bb3-00-2dwwmii5ux6hq.kirk.replit.dev/"
+    },
+    {
+      "id": "11",
+      "title": "Project 11",
+      "date": "04/29/24",
+      "description": "Custom ping pong game",
+      "image_path": "imgs/PingPongThumb.jpg",
+      "url": "https://2b3d315d-6e4e-4f5a-991d-b6e193fdc358-00-1l4z80o1c4v7s.kirk.replit.dev/"
+    }
+  ]
+}
